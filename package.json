@@ -1,0 +1,35 @@
+{
+  "name": "simple-social-app",
+  "version": "1.0.0",
+  "description": "simple social app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahidulAlam/simple-social-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "ejs",
+    "social",
+    "github",
+    "app"
+  ],
+  "author": "Md Tahidul Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahidulAlam/simple-social-app/issues"
+  },
+  "homepage": "https://github.com/TahidulAlam/simple-social-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
